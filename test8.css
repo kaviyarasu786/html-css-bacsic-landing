@@ -1,0 +1,87 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container1
+{
+    background-color:wheat;
+    height: 100px;
+}
+.container1 ul li
+{
+    display: inline-block;
+    padding: 20px;
+    font-size: 20px;
+}
+.container1 ul
+{
+    margin-left: 500px;
+    padding-top: 20px;
+}
+.container2 
+{
+    background-image: url(../image/test8_1.jpg);
+    height: 600px;
+    background-size: cover;
+}
+.container3
+{
+    background-color: aqua;
+    height: 500px;
+}
+.container3 p
+{
+    font-size: 20px;
+    padding: 20px;
+}
+.c3_head .c3
+{
+    float: left;
+}
+.c3 p
+{
+    width: 700px;
+}
+.c3 img
+{
+    margin-left: 100px;
+    width: 400px;
+}
+button
+{
+    margin-left: 20px;
+    padding: 10px;
+    width: 200px;
+    font-size: 20px;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+}
+ .container3 h3::first-line
+{
+    color: red;
+}
+.container3 h3::first-letter
+{
+    color: yellow;
+}
+.container3 h3
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 20px;
+    font-weight: normal;
+}
+.container4
+{
+    background-color: rgb(52, 47, 47);
+}
+.container4 h2
+{
+    color: white;
+    height: 50px;
+    text-align: center;
+    padding: 20px;
+}
