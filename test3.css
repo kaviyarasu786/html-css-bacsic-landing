@@ -1,0 +1,81 @@
+.container1
+{
+    height: 100px;
+    width: 800px;
+    border: 2px solid darkblue;
+    margin:auto;
+    background-image: url(../image/t5.png);
+}
+.container1 ul
+{
+    float: right;
+    list-style-type: none;
+    margin-top: 5px;
+    font-size: 20px;
+    color: white;
+}
+.container1 ul li
+{
+    display: inline-block;
+    padding: 20px;
+}
+.container2
+{
+    height: 450px;
+    width: 800px;
+    border: 2px solid darkblue;
+    margin:auto;
+    background-image: url(../image/t5_img.jpg);
+    background-size: cover;
+}.container3
+{
+    height: 450px;
+    width: 800px;
+    border: 2px solid whitesmoke;
+    margin:auto;
+    background-color: lightgray;
+}
+.container3 h2
+{
+    text-align: center;
+}
+.container3 p
+{
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.container3 ul
+{
+    font-weight: bold;
+    margin-left: 300px;
+    font-size: 20px;
+    line-height: 40px;
+}
+.container4
+{
+    height: 150px;
+    width: 800px;
+    border: 2px solid darkblue;
+    margin:auto;
+    background-color: darkblue;
+}
+.container4 ul
+{
+    float: right;
+    list-style-type: none;
+}
+.container4 ul li
+{
+    display: inline-block;
+    padding: 20px;
+    color: white;
+    font-size: 20px;
+}
+footer h4
+{
+    margin-top: 100px;
+    text-align: center;
+    color: white;
+}
+
