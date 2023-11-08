@@ -1,0 +1,62 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header
+{
+    background-color: darkblue;
+    height: 200px;
+}
+.header ul li
+{
+    float: left;
+    list-style-type: none;
+    margin: 30px;
+    font-size: 20px;
+    color: white;
+}
+.header ul
+{
+    margin-left: 350px;
+}
+.bdy
+{
+    background-color:sienna;
+    height: 600px;
+    padding-left: 200px;
+}
+.bdy .all_img img
+{
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+    border-radius: 50%;
+}
+.footer
+{
+    background-color: gray;
+    height: 300px;
+}
+.fot img
+{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.fot p
+{
+    width: 700px;
+    padding-left: 300px;
+    margin-top: 50px;
+}
+.ft .fot
+{
+    float: left;
+}
+.copyrit
+{
+    padding-top: 250px;
+    padding-left: 500px;
+}
