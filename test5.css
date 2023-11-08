@@ -1,62 +1,81 @@
 *
 {
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
 }
 
-.header
+.container1
 {
-    background-color: darkblue;
-    height: 200px;
+    background-color: rgb(220, 140, 103);
+    height: 100px;
 }
-.header ul li
+.container1 ul li
 {
-    float: left;
-    list-style-type: none;
-    margin: 30px;
-    font-size: 20px;
-    color: white;
+ display: inline-block;
+ padding: 20px;
+ font-size: 20px;
+ color: white;
 }
-.header ul
+.c1
 {
-    margin-left: 350px;
+    margin-left: 300px;
 }
-.bdy
+.container2
 {
-    background-color:sienna;
+    background-image: url(../image/rohit.webp);
+    background-size: cover;
+    width: 100%;
     height: 600px;
-    padding-left: 200px;
 }
-.bdy .all_img img
+.container3
 {
-    width: 200px;
-    height: 200px;
-    margin: 50px;
-    border-radius: 50%;
+    background-color: dodgerblue;
+    height: 100px;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
 }
-.footer
+.container4
 {
-    background-color: gray;
-    height: 300px;
+    background-color: seagreen;
+    height: 150px;
+    font-size: 20px;
+    padding: 20px;
 }
-.fot img
+.container5 h1
 {
-    border-radius: 50%;
-    width: 200px;
-    height: 200px;
+    text-align: center;
 }
-.fot p
+.container5
 {
-    width: 700px;
-    padding-left: 300px;
-    margin-top: 50px;
+    background-color: darkcyan;
+    height: 400px;
 }
-.ft .fot
+.container5 ol li
 {
-    float: left;
+    margin-left: 500px;
+    font-size: 30px;
+    font-weight: bold;
 }
-.copyrit
+.container5 ol
 {
-    padding-top: 250px;
-    padding-left: 500px;
+    margin-top: 20px;
+    line-height: 50px;
+}
+
+.container6
+{
+    background-color: rgb(185, 117, 86);
+    height: 100px;
+}
+.container6 ul li
+{
+ display: inline-block;
+ padding: 20px;
+ font-size: 20px;
+ color: white;
+}
+.c1
+{
+    margin-left: 300px;
 }
